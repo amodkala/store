@@ -21,5 +21,6 @@ func New(opts ...StoreOpt) *Store {
 	if s.db == nil {
 		s.kv = make(map[string]string)
 	}
+
 	return s
 }

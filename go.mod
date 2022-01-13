@@ -3,7 +3,7 @@ module github.com/amodkala/store
 go 1.17
 
 require (
-	github.com/amodkala/raft v0.0.0-20220110225531-cbb59deb743d
+	github.com/amodkala/raft v0.0.0-20220112225130-c340fcc2afda
 	github.com/cockroachdb/pebble v0.0.0-20220111202524-0c503048eb03
 )
 
